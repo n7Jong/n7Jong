@@ -43,6 +43,6 @@
   <h3>👨‍💻 About Me</h3>
   <p>
     Intern (Batch 13) at University of the Cordilleras Innovation and Technology Transfer Office<br>
-    Currently developing 2 websites using <b>CSS, </b><b>HTML5</b> and <b>Firebase Studio</b> as a <b> Back-end Developer </b>
+    Currently developing 2 websites using <b>Javascript, </b><b>CSS, </b><b>HTML5</b> and <b>Firebase Studio</b> as a <b> Back-end Developer </b>
   </p>
 </div>
