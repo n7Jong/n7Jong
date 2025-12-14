@@ -3,20 +3,23 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html5 logo" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="60" alt="firebase logo" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="60" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
+  <img src="https://skillicons.dev/icons?i=vue" height="60" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" />
 </div>
+>
 
 ###
 
@@ -42,7 +45,10 @@
 <div align="center">
   <h3>👨‍💻 About Me</h3>
   <p>
-    Intern (Batch 13) at University of the Cordilleras Innovation and Technology Transfer Office<br>
-    Currently developing 2 websites using <b>Javascript, </b><b>CSS, </b><b>HTML5</b> and <b>Firebase Studio</b> as a <b> Back-end Developer </b>
+    Proud to be UC InTTO Former Intern (Batch 13) at the University of the Cordilleras – Innovation and Technology Transfer Office (UC-InTTO)<br>
+    Project Leader and Back-end Developer for the official UC-InTTO website<br>
+    <b>intto.uc-bcf.edu.ph</b><br>
+    Developed using <b>JavaScript</b>, <b>HTML5</b>, <b>Tailwind CSS</b>, and <b>Firebase</b>
   </p>
 </div>
+
