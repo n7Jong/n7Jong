@@ -47,7 +47,8 @@
     Proud to be UC InTTO Former Intern (Batch 13) at the University of the Cordilleras – Innovation and Technology Transfer Office (UC-InTTO)<br>
     Project Leader and Back-end Developer for the official UC-InTTO website<br>
     <b>intto.uc-bcf.edu.ph</b><br>
-    Developed using <b>JavaScript</b>, <b>HTML5</b>, <b>Tailwind CSS</b>, and <b>JavaScript</b>
+    Developed using <b>JavaScript</b>, <b>HTML5</b>,and <b>Tailwind CSS</b>
   </p>
+  <p>Website Portfolio: n7jong.github.io</p>
 </div>
 
